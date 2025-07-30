@@ -1,2 +1,4 @@
 .env*
 demos/knn/data/mnist
+demos/face-recog/data/*.npy
+demos/face-recog/haarcascade*.xml
