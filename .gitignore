@@ -2,3 +2,5 @@
 demos/knn/data/mnist
 demos/face-recog/data/*.npy
 demos/face-recog/haarcascade*.xml
+assignments/FaceRecog/test/sample_output.csv
+assignments/FaceRecog/train/third-party
